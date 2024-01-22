@@ -12,7 +12,7 @@ Facilitates seamless financial collaboration within your circles with this intui
 A <b>Medical Appointment Scheduler</b> streamlines healthcare management by providing an efficient platform for patients to book appointments, reducing wait times, and enhancing overall clinic organization. It ensures a smooth scheduling process, contributing to improved patient experiences and optimized healthcare operations.
 > [𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐕𝐢𝐝𝐞𝐨](https://www.linkedin.com/posts/rohith-vankayalapati_coderscave-pythondevelopment-intern-activity-7152443038676488193-3QDd)
 
-<hr><br>
+<hr>
 
 <h2 align="center"> Phase-2 </h2>
 
