@@ -18,3 +18,11 @@ A <b>Medical Appointment Scheduler</b> streamlines healthcare management by prov
 
 ### Normal Task *(Simple Clock Web App)*
 This Flask-powered <b>Clock Web Application</b> seamlessly blends simplicity and functionality to deliver a captivating timepiece with both analog and digital features. Developed with HTML, CSS, and JavaScript, the clock showcases rotating circles for hours, minutes, and seconds, accompanied by a crystal-clear digital display. Flask takes center stage, demonstrating its versatility in serving both dynamic content and static files.
+> [𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐕𝐢𝐝𝐞𝐨](https://www.linkedin.com/posts/rohith-vankayalapati_coderscave-pythondevelopment-intership-activity-7155303600498331651-WamA)
+
+<br>
+
+### Golden Task *(Personalized Email Sender)*
+Our <b>Email Sender App</b>, crafted with Python and Tkinter, revolutionizes the emailing experience. Offering a seamless interface, it empowers users to effortlessly send emails to one or more recipients. With the added capability of attaching files, it becomes an indispensable tool for efficient and versatile communication. Experience the simplicity and effectiveness of our application for all your email-sending needs.
+> [𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐕𝐢𝐝𝐞𝐨](https://www.linkedin.com/posts/rohith-vankayalapati_coderscave-pythondevelopment-internship-activity-7158128280401858560-kr1X)
+> 
