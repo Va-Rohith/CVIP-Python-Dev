@@ -59,7 +59,7 @@ def send():
                         print(Fore.RED + f"Failed to send email to {receiver_mail.strip()}." + Fore.RESET)
                 server.quit()
 
-                status.config(text="Email has been sent 👍", fg="green")
+                status.config(text="Email(s) has been sent 👍", fg="green")
         except smtplib.SMTPAuthenticationError:
             status.config(text="Error! Invalid Credentials 😓", fg="red")
             print(Fore.RED + "Failure in Sending Email! Enter Valid Details." + Fore.RESET)
