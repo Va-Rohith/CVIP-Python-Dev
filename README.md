@@ -25,4 +25,3 @@ This Flask-powered <b>Clock Web Application</b> seamlessly blends simplicity and
 ### Golden Task *(Personalized Email Sender)*
 Our <b>Email Sender App</b>, crafted with Python and Tkinter, revolutionizes the emailing experience. Offering a seamless interface, it empowers users to effortlessly send emails to one or more recipients. With the added capability of attaching files, it becomes an indispensable tool for efficient and versatile communication. Experience the simplicity and effectiveness of our application for all your email-sending needs.
 > [𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐕𝐢𝐝𝐞𝐨](https://www.linkedin.com/posts/rohith-vankayalapati_coderscave-pythondevelopment-internship-activity-7158128280401858560-kr1X)
-> 
