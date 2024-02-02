@@ -1,4 +1,4 @@
-<h1 align="center"> CodersCave Python Developer Internship Tasks </h1>
+<h1 align="center"> CodersCave Python Developement Internship Tasks </h1>
 
 <h2 align="center"> Phase-1 </h2>
 
