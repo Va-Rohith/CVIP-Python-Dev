@@ -3,7 +3,7 @@
 <h2 align="center"> Phase-1 </h2>
 
 ### Normal Task *(Expense Sharing App)*
-Facilitates seamless financial collaboration within your circles with this intuitive <b>Expense Sharing App</b>. Split bills effortlessly, track shared expenses, and ensure financial harmony among friends or groups.
+&emsp; Facilitates seamless financial collaboration within your circles with this intuitive <b>Expense Sharing App</b>. Split bills effortlessly, track shared expenses, and ensure financial harmony among friends or groups.
 > [𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐕𝐢𝐝𝐞𝐨](https://www.linkedin.com/posts/rohith-vankayalapati_coderscave-pythondevelopment-internshipproject-activity-7152428691602460672-KHwv)
 
 <br>
